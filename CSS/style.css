@@ -1,0 +1,26 @@
+body {
+  background-color: #222831;
+  text-align: center;
+}
+
+hr {
+  border-color: #F38181;
+  border-style: dotted none none;
+  border-width: 5px;
+  width: 20%;
+}
+
+h1 {
+  color: #00ADB5;
+}
+
+h3 {
+  color: #FCE38A;
+}
+
+h2 {
+  color: #FC5185;
+}
+img:hover {
+  background-color: gold;
+}
